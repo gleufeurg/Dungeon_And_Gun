@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Dungeon_And_Gun/Intermediate/CachedAssetRegistry.bin
