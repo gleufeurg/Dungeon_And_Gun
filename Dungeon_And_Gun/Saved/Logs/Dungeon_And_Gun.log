@@ -5159,3 +5159,452 @@ Script Stack (0 frames):
 [2023.01.05-17.00.12:972][529]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_InventorySlot564724FA4DBF21670B67A98488D0517C.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Inventory/UI/W_InventorySlot.uasset'
 [2023.01.05-17.00.12:989][529]AssetCheck: New page: Asset Save: W_InventorySlot
 [2023.01.05-17.00.12:989][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Inventory/UI/W_InventorySlot.W_InventorySlot
+[2023.01.05-17.16.04:232][224]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/TopDown/Maps/TopDownMap.TopDownMap:W_PlayerMenu_C_11
+	Function /Game/TopDown/Blueprints/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:007C
+[2023.01.05-17.16.18:228][236]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.16.27:108][236]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.05-17.16.27:116][236]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.05-17.16.27:124][236]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.05-17.16.27:133][237]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.05-17.16.36:962][417]LogContentBrowser: Attempting asset rename: NewBlueprint -> W_TetrisDragWidget
+[2023.01.05-17.16.36:966][417]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.05-17.16.42:351][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.01.05-17.16.44:892][850]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-17.16.45:137][850]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:137][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:145][850]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:145][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:202][850]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:202][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:275][850]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:275][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:341][850]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:341][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:349][850]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:349][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:413][850]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:413][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:421][850]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.01.05-17.16.45:421][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.05-17.16.45:459][850]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Blueprints/Tetris/W_TetrisWidget.W_TetrisWidget
+	Asset Type: WidgetBlueprint
+[2023.01.05-17.16.45:957][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.05-17.16.45:999][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.01.05-17.16.46:027][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.05-17.16.58:864][734]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-17.16.58:864][734]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidget6A866BF2449EC15FDB53DFA55BDAF49D.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-17.16.58:877][734]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-17.16.58:877][734]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.17.20:594][389]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.17.28:146][389]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.05-17.17.28:153][389]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.05-17.17.28:158][389]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.05-17.17.28:166][390]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.05-17.18.01:441][836]LogContentBrowser: Attempting asset rename: NewBlueprint -> W_TetrisPieceWidget
+[2023.01.05-17.18.01:446][836]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.05-17.18.07:894][ 64]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.18.11:717][ 64]LogDerivedDataCache: C:/Users/t_lefevre1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.05-17.18.14:539][ 64]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.05-17.18.14:547][ 64]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.05-17.18.14:552][ 64]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.05-17.18.14:561][ 65]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.05-17.18.26:849][ 20]LogContentBrowser: Attempting asset rename: NewBlueprint -> W_TetrisHUD
+[2023.01.05-17.18.26:853][ 20]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.05-17.18.28:631][155]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-17.18.28:632][155]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD36A3F8C348166B589DAB8992A600B67B.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-17.18.28:645][155]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-17.18.28:646][155]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-17.18.29:783][243]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.18.29:783][243]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget260CE6E740CBCB6637106A9564549920.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.18.29:796][243]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.18.29:796][243]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.18.58:728][767]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.19.06:384][767]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.01.05-17.19.06:392][767]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.01.05-17.19.06:396][767]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.01.05-17.19.06:412][768]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.01.05-17.19.07:252][826]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2023.01.05-17.19.07:257][826]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.01.05-17.19.09:483][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.05-17.19.10:444][  1]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.05-17.19.10:478][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.01.05-17.19.26:311][189]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.19.31:373][189]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.05-17.19.31:379][189]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.05-17.19.31:384][189]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.05-17.19.31:393][190]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.05-17.19.41:653][449]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.01.05-17.19.41:660][449]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.05-17.20.00:093][867]LogContentBrowser: Attempting asset rename: NewBlueprint -> DD_TetrisDragnDrop
+[2023.01.05-17.20.00:116][867]LogMetaData: Removing '/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.SKEL_DD_TetrisDragnDrop_C' ref from Metadata '/Game/TopDown/Blueprints/Tetris/NewBlueprint.PackageMetaData'
+[2023.01.05-17.20.00:116][867]LogMetaData: Removing '/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop_C' ref from Metadata '/Game/TopDown/Blueprints/Tetris/NewBlueprint.PackageMetaData'
+[2023.01.05-17.20.00:147][867]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.20.00:147][867]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDropE42FFDFC4F9A72033C0467A9A2CE5350.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.20.00:198][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.01.05-17.20.00:230][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.01.05-17.20.00:258][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.05-17.20.00:264][867]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.20.00:264][867]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.20.02:114][  5]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.20.02:114][  5]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDrop6EE8A67A4E29DFAD363048B0AADCD507.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.20.02:127][  5]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.20.02:127][  5]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.20.06:796][200]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.20.06:797][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.20.06:814][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.20.07:207][200]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.20.07:207][200]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.20.08:638][305]LogSlate: Window 'W_TetrisDragWidget' being destroyed
+[2023.01.05-17.20.40:120][566]LogSlate: Took 0.004454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.01.05-17.21.09:450][109]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-17.21.09:500][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.05-17.21.09:969][154]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-17.21.09:969][154]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetBFB37C264E9222D9B97DC1A108F52E98.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-17.21.09:983][154]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-17.21.09:983][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.21.53:558][290]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-17.21.53:609][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.05-17.21.54:019][327]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-17.21.54:020][327]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetEAA165804A698C6FE38630B083529782.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-17.21.54:032][327]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-17.21.54:032][327]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.22.18:882][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.05-17.22.18:884][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.051
+[2023.01.05-17.22.18:884][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/Characters/BP_TopDownCharacter] ([2] browsable assets)...
+[2023.01.05-17.22.18:986][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/Characters/BP_TopDownCharacter.BP_TopDownCharacter]
+[2023.01.05-17.22.18:986][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Characters/BP_TopDownCharacter]
+[2023.01.05-17.22.19:009][464]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Characters/BP_TopDownCharacter_Auto4
+[2023.01.05-17.22.19:009][464]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/BP_TopDownCharacter_Auto474174CD14F8629B4EF2F8394459EAB16.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/TopDown/Blueprints/Characters/BP_TopDownCharacter_Auto4.uasset'
+[2023.01.05-17.22.19:013][464]LogFileHelpers: Auto-saving content packages took 0.129
+[2023.01.05-17.23.07:368][ 84]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.23.07:368][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.23.17:901][861]LogEditorTransaction: Undo Add Variable
+[2023.01.05-17.23.18:110][865]LogEditorTransaction: Undo Add Variable
+[2023.01.05-17.23.36:917][ 13]BlueprintLog: New page: Compile DD_TetrisDragnDrop
+[2023.01.05-17.23.36:961][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.05-17.23.37:268][ 38]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.23.37:268][ 38]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDropF73BDC8343FC967761B850BB8985003F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.23.37:280][ 38]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.23.37:280][ 38]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.23.50:528][589]BlueprintLog: New page: Compile DD_TetrisDragnDrop
+[2023.01.05-17.23.50:570][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.05-17.23.51:051][634]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.23.51:051][634]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDrop3E9626174141F6587657F0877C0BD617.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.23.51:063][634]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.23.51:063][634]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.23.53:951][956]BlueprintLog: New page: Compile DD_TetrisDragnDrop
+[2023.01.05-17.23.53:993][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.01.05-17.23.54:401][995]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.23.54:401][995]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDrop8FFC3672485BF05FB075BD881F5AAE00.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.23.54:413][995]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.23.54:413][995]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.24.08:055][585]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-17.24.08:113][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.05-17.24.08:553][628]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-17.24.08:553][628]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetCCE83A4C4F19F665547981B57328478C.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-17.24.08:564][628]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-17.24.08:564][628]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.24.25:146][410]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.24.25:146][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.24.25:158][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.24.25:495][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.24.25:496][410]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.25.07:487][156]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.25.07:553][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.05-17.25.08:154][206]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.25.08:154][206]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget65BC314145424A8080E52A8333B12C6E.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.25.08:165][206]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.25.08:165][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.25.25:670][800]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.25.25:735][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.05-17.25.26:155][832]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.25.26:156][832]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget9DAD8DB749B5BE79250295B91677EA85.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.25.26:167][832]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.25.26:167][832]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.25.50:874][117]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.25.50:939][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.05-17.25.51:455][162]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.25.51:456][162]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetE4948F4343501260DEA2BF9E0CBA1C77.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.25.51:468][162]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.25.51:468][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.25.52:574][295]LogEditorTransaction: Undo Edit Condition Changed
+[2023.01.05-17.25.52:870][300]LogEditorTransaction: Undo Edit Condition Changed
+[2023.01.05-17.25.53:035][302]LogEditorTransaction: Undo Edit Condition Changed
+[2023.01.05-17.25.53:452][338]LogEditorTransaction: Undo Edit Condition Changed
+[2023.01.05-17.25.53:919][389]LogEditorTransaction: Undo Add Widget
+[2023.01.05-17.25.54:434][450]LogEditorTransaction: Undo Remove Variable
+[2023.01.05-17.25.54:976][515]LogEditorTransaction: Undo Change Parameter Type
+[2023.01.05-17.25.55:393][565]LogEditorTransaction: Undo Rename Variable
+[2023.01.05-17.25.55:618][592]LogEditorTransaction: Undo Add Variable
+[2023.01.05-17.25.55:793][613]LogEditorTransaction: Undo Change Parameter Type
+[2023.01.05-17.25.56:010][639]LogEditorTransaction: Undo Rename Variable
+[2023.01.05-17.25.57:377][803]LogEditorTransaction: Redo Rename Variable
+[2023.01.05-17.25.57:522][820]LogEditorTransaction: Redo Change Parameter Type
+[2023.01.05-17.25.57:679][839]LogEditorTransaction: Redo Add Variable
+[2023.01.05-17.25.57:872][862]LogEditorTransaction: Redo Rename Variable
+[2023.01.05-17.25.58:013][879]LogEditorTransaction: Redo Change Parameter Type
+[2023.01.05-17.25.58:155][896]LogEditorTransaction: Redo Remove Variable
+[2023.01.05-17.25.58:321][915]LogEditorTransaction: Redo Add Widget
+[2023.01.05-17.25.58:477][931]LogEditorTransaction: Redo Edit Condition Changed
+[2023.01.05-17.25.58:633][949]LogEditorTransaction: Redo Edit Condition Changed
+[2023.01.05-17.25.58:748][962]LogEditorTransaction: Redo Edit Condition Changed
+[2023.01.05-17.25.58:912][980]LogEditorTransaction: Redo Edit Condition Changed
+[2023.01.05-17.26.23:330][827]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.26.23:394][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.05-17.26.23:789][853]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.26.23:789][853]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget21CAFE2A4EAF1A7EE770259EB2C6B971.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.26.23:801][853]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.26.23:801][853]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.26.40:638][862]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.26.40:703][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.05-17.26.41:039][884]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.26.41:039][884]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget80A8768D457337B3F01702926CC89202.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.26.41:050][884]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.26.41:050][884]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.27.00:732][244]LogEditorTransaction: Undo Edit Height Override
+[2023.01.05-17.27.01:617][284]LogEditorTransaction: Undo Edit Width Override
+[2023.01.05-17.27.02:988][442]LogEditorTransaction: Redo Edit Width Override
+[2023.01.05-17.27.03:164][458]LogEditorTransaction: Redo Edit Height Override
+[2023.01.05-17.27.10:121][281]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.27.10:187][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.05-17.27.10:622][314]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.27.10:623][314]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetB9AAE67E4EEEBA6B731ABF899C905EB4.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.27.10:636][314]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.27.10:636][314]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.28.22:993][187]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.05-17.28.23:618][207]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.05-17.28.24:058][250]LogEditorTransaction: Undo Edit Percent
+[2023.01.05-17.28.24:481][292]LogEditorTransaction: Undo Edit Vertical Alignment
+[2023.01.05-17.28.25:356][388]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2023.01.05-17.28.30:929][ 35]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.28.30:998][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.05-17.28.31:291][ 44]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.28.31:291][ 44]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget7942BC8641D390182101978D4CADF51F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.28.31:303][ 44]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.28.31:303][ 44]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.28.37:544][447]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.05-17.28.50:657][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.28.50:657][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.29.43:304][111]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.29.43:371][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.05-17.29.43:742][144]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.29.43:743][144]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget9A5A533D4988DE2B940112ACF735FDBA.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.29.43:755][144]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.29.43:755][144]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.30.12:873][ 49]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.30.12:874][ 49]LogBlueprint: Warning: [AssetLog] C:\Users\t_lefevre1\Documents\GitHub\The-Game-of-Growth\Dungeon_And_Gun\Content\TopDown\Blueprints\Tetris\W_TetrisPieceWidget.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.01.05-17.30.12:940][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.05-17.30.13:310][ 79]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.30.13:310][ 79]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetABED1579418FF45C2B64E1BF97F1C505.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.30.13:323][ 79]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.30.13:323][ 79]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.30.20:209][874]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.30.20:210][874]LogBlueprint: Warning: [AssetLog] C:\Users\t_lefevre1\Documents\GitHub\The-Game-of-Growth\Dungeon_And_Gun\Content\TopDown\Blueprints\Tetris\W_TetrisPieceWidget.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2023.01.05-17.30.20:276][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.05-17.31.22:418][730]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.31.22:480][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.05-17.31.22:912][768]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.31.22:912][768]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget50B0E13D477FB107A47D7EBCF1023536.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.31.22:927][768]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.31.22:927][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.32.19:497][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.05-17.32.19:499][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.060
+[2023.01.05-17.32.19:500][580]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget] ([2] browsable assets)...
+[2023.01.05-17.32.19:502][580]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget]
+[2023.01.05-17.32.19:502][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget]
+[2023.01.05-17.32.19:505][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget_Auto5
+[2023.01.05-17.32.19:505][580]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidget_Auto5ADC2551E4E83E5FC694E5F8E8B77E73F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget_Auto5.uasset'
+[2023.01.05-17.32.19:506][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop] ([2] browsable assets)...
+[2023.01.05-17.32.19:506][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop]
+[2023.01.05-17.32.19:507][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop_Auto5
+[2023.01.05-17.32.19:508][580]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDrop_Auto5AAA70AC94B4000807A89D883A675C218.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop_Auto5.uasset'
+[2023.01.05-17.32.19:508][580]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.01.05-17.36.15:328][167]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.36.15:398][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.01.05-17.36.15:894][214]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.36.15:895][214]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetC1C698FB4AAB59DA38168C95F3204812.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.36.15:908][214]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.36.15:908][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.39.53:013][303]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.39.53:083][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.05-17.39.53:446][331]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.39.53:447][331]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget2217FE274DF15C84FAB7D9AF5E72727B.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.39.53:460][331]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.39.53:460][331]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.41.13:400][970]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.41.13:470][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.05-17.41.14:096][ 31]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.41.14:097][ 31]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget96FF2D1F49BC5202B47E0199E63A45DA.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.41.14:110][ 31]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.41.14:110][ 31]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.41.40:155][418]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.41.53:875][877]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.41.53:943][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.05-17.41.54:281][905]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.41.54:282][905]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget48EFA83E44D1ABA7025EA78BAE4CF1C9.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.41.54:295][905]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.41.54:295][905]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.42.10:219][379]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.42.10:286][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.01.05-17.42.10:764][423]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.42.10:765][423]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget3D891A9A4B8E810190D568B2D1133B7C.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.42.10:778][423]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.42.10:778][423]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.43.24:657][627]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.05-17.44.09:318][930]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.44.09:386][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.05-17.44.35:027][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.05-17.44.35:030][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.058
+[2023.01.05-17.44.35:030][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget] ([2] browsable assets)...
+[2023.01.05-17.44.35:033][153]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget]
+[2023.01.05-17.44.35:033][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget]
+[2023.01.05-17.44.35:040][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget_Auto6
+[2023.01.05-17.44.35:040][153]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget_Auto671EFDE1249389C2799F44EB02A4E2145.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget_Auto6.uasset'
+[2023.01.05-17.44.35:041][153]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.01.05-17.45.06:278][660]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.45.06:343][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.05-17.45.06:817][700]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.45.06:817][700]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetDF03867D43DECC29775106A33FA8FF7B.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.45.06:829][700]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.45.06:829][700]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.45.29:495][198]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.45.29:564][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.01.05-17.45.29:800][213]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.45.29:801][213]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetE4376E984C4DDC1B951A88818325F90F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.45.29:813][213]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.45.29:813][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.45.48:226][  4]LogEditorTransaction: Undo Move Node
+[2023.01.05-17.45.49:055][ 46]LogEditorTransaction: Undo Straighten Connection(s)
+[2023.01.05-17.46.02:076][533]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.46.02:145][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.05-17.46.02:518][562]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.46.02:518][562]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidgetBA1F0E0941FD3623F6B96EA53E1D89CD.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.46.02:530][562]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.46.02:531][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.46.26:518][810]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.46.26:588][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.05-17.46.26:918][835]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.46.26:919][835]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget15EFA4794C63314986C5FC94834E89F7.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.46.26:931][835]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.46.26:931][835]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.46.37:978][698]BlueprintLog: New page: Compile W_TetrisPieceWidget
+[2023.01.05-17.46.38:045][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.05-17.46.38:584][746]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget
+[2023.01.05-17.46.38:585][746]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisPieceWidget74274229406A77FF43F701A59463C1FF.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.uasset'
+[2023.01.05-17.46.38:596][746]AssetCheck: New page: Asset Save: W_TetrisPieceWidget
+[2023.01.05-17.46.38:596][746]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisPieceWidget.W_TetrisPieceWidget
+[2023.01.05-17.47.30:343][261]BlueprintLog: New page: Compile DD_TetrisDragnDrop
+[2023.01.05-17.47.30:396][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.01.05-17.47.30:859][303]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop
+[2023.01.05-17.47.30:860][303]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/DD_TetrisDragnDrop1BEB4BF74D8093CDAE3CBC9C5F0296CC.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.uasset'
+[2023.01.05-17.47.30:872][303]AssetCheck: New page: Asset Save: DD_TetrisDragnDrop
+[2023.01.05-17.47.30:872][303]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/DD_TetrisDragnDrop.DD_TetrisDragnDrop
+[2023.01.05-17.47.32:167][443]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-17.47.32:218][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.05-17.47.32:663][482]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-17.47.32:663][482]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetD9771E174F8579F0965687BA0B3D7A4A.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-17.47.32:675][482]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-17.47.32:675][482]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-17.47.38:128][971]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-17.47.38:128][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.47.38:137][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.05-17.47.38:475][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.47.38:475][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.48.21:968][932]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.48.21:968][932]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.48.33:834][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.48.33:834][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-17.53.39:364][150]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-17.53.39:452][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.01.05-17.53.39:881][184]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-17.53.39:881][184]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD32E9EF044AF2081A90D89C8D34DE7E2D.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-17.53.39:894][184]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-17.53.39:894][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-17.53.56:257][739]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-17.53.56:336][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.05-17.53.56:731][772]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-17.53.56:732][772]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD14E2CB984D13132D9CB674AE43987618.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-17.53.56:743][772]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-17.53.56:744][772]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-17.56.50:901][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.01.05-17.56.50:903][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.063
+[2023.01.05-17.56.50:903][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/Tetris/W_TetrisHUD] ([2] browsable assets)...
+[2023.01.05-17.56.50:906][483]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD]
+[2023.01.05-17.56.50:906][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Tetris/W_TetrisHUD]
+[2023.01.05-17.56.50:911][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisHUD_Auto7
+[2023.01.05-17.56.50:911][483]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD_Auto78BD1CD29413CA453FE0E16BD3C3D4E96.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/TopDown/Blueprints/Tetris/W_TetrisHUD_Auto7.uasset'
+[2023.01.05-17.56.50:911][483]LogFileHelpers: Auto-saving content packages took 0.008
+[2023.01.05-17.57.13:305][756]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-17.57.13:381][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.05-17.57.13:635][773]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-17.57.13:636][773]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUDBBE628E6441C958E7D85028A86C4E86A.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-17.57.13:649][773]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-17.57.13:649][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-18.01.46:735][110]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-18.01.46:737][110]LogBlueprint: Error: [AssetLog] C:\Users\t_lefevre1\Documents\GitHub\The-Game-of-Growth\Dungeon_And_Gun\Content\TopDown\Blueprints\Tetris\W_TetrisHUD.uasset: [Compiler] The current value of the ' Input ' pin is invalid: 'Input' in action 'Get Screen Space Position' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.01.05-18.01.46:813][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.05-18.01.47:124][133]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-18.01.47:124][133]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD9AD64519480764AD405436B0AEB00846.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-18.01.47:139][133]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-18.01.47:139][133]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-18.02.02:401][756]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-18.02.02:478][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.01.05-18.02.02:907][791]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-18.02.02:907][791]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD6D0FD68D4EFF5590F21E1BB38F58806F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-18.02.02:921][791]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-18.02.02:921][791]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-18.02.11:400][542]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-18.02.11:476][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.05-18.02.11:972][582]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-18.02.11:973][582]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUD4BD6FCED4372BDCC3C6A5284BDAA7BE3.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-18.02.11:986][582]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-18.02.11:986][582]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-18.02.27:218][ 47]BlueprintLog: New page: Compile W_TetrisHUD
+[2023.01.05-18.02.27:293][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.05-18.02.28:074][123]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisHUD
+[2023.01.05-18.02.28:074][123]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisHUDD422A08345E59CF3DBD27BBFAB721089.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisHUD.uasset'
+[2023.01.05-18.02.28:087][123]AssetCheck: New page: Asset Save: W_TetrisHUD
+[2023.01.05-18.02.28:087][123]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisHUD.W_TetrisHUD
+[2023.01.05-18.05.19:052][289]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-18.05.19:052][289]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-18.05.41:528][337]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-18.05.41:611][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.01.05-18.05.42:039][363]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.05.42:040][363]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetB303835A4FC0A68EDDC13B8A1D6974D1.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.05.42:053][363]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.05.42:053][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-18.06.08:405][ 46]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.05-18.06.10:504][288]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-18.06.10:579][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.05-18.06.10:888][302]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.06.10:889][302]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidget585C5C184BE6F7C799816B8413C3D115.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.06.10:903][302]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.06.10:903][302]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-18.06.26:306][816]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.05-18.06.27:395][945]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-18.06.27:472][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.05-18.06.27:771][958]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.06.27:772][958]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidget34DE27F44A666C9DAE582F827EAB3D15.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.06.27:786][958]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.06.27:786][958]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-18.06.59:344][108]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-18.06.59:420][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.05-18.06.59:640][119]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.06.59:640][119]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetE528C6A74BF6F5ECBE4568AD210B9CE3.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.06.59:652][119]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.06.59:652][119]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-18.08.02:850][546]BlueprintLog: New page: Compile W_TetrisDragWidget
+[2023.01.05-18.08.02:927][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.01.05-18.08.03:291][572]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.08.03:292][572]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidgetAB55FD2A44D0C8F6CB16E9820D8700DB.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.08.03:304][572]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.08.03:305][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
+[2023.01.05-18.08.17:001][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-18.08.17:001][995]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.05-18.09.25:618][600]LogBlueprint: Warning: [AssetLog] C:\Users\t_lefevre1\Documents\GitHub\The-Game-of-Growth\Dungeon_And_Gun\Content\TopDown\Blueprints\Tetris\W_TetrisDragWidget.uasset: [Compiler] Variable WidgetReference is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2023.01.05-18.09.43:924][318]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget
+[2023.01.05-18.09.43:925][318]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Saved/W_TetrisDragWidget9202F9BB4F308225A3EFC58E5249912E.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/W_TetrisDragWidget.uasset'
+[2023.01.05-18.09.43:938][318]AssetCheck: New page: Asset Save: W_TetrisDragWidget
+[2023.01.05-18.09.43:938][318]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDown/Blueprints/Tetris/W_TetrisDragWidget.W_TetrisDragWidget
