@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{770731F5-4F3C-54FE-C52D-88A81220FA75}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -9,15 +9,6 @@
 			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
-			]
-		},
-		{
-			"Name": "NiagaraUIRenderer",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fd24d23ca57b4c59a4e4b7368da250bd",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
 			]
 		}
 	]
