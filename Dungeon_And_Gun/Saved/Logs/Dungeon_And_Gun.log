@@ -1235,3 +1235,33 @@ Script Stack (0 frames):
 [2023.01.11-10.27.52:209][537]AssetCheck: New page: Asset Save: LV1_Blockout
 [2023.01.11-10.27.52:209][537]LogContentValidation: Display: Validating World /Game/TopDown/Maps/LV1/LV1_Blockout.LV1_Blockout
 [2023.01.11-10.27.53:025][628]LogEditorViewport: Clicking Background
+[2023.01.11-10.34.26:605][441]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.34.26:613][441]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.34.26:620][442]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.34.39:350][970]LogContentBrowser: Attempting asset rename: NewFolder -> FX
+[2023.01.11-10.34.39:350][970]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.11-10.34.42:418][309]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.34.42:431][309]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.34.42:437][310]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.34.43:750][468]LogContentBrowser: Attempting asset rename: NewFolder -> SFX
+[2023.01.11-10.34.43:750][468]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.11-10.36.02:791][612]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.36.02:798][612]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.36.02:814][614]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.36.06:827][ 96]LogContentBrowser: Attempting asset rename: NewFolder -> Niagara
+[2023.01.11-10.36.06:828][ 96]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.11-10.36.08:835][313]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.36.08:840][313]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.36.08:846][314]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.36.11:809][670]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.01.11-10.36.11:809][670]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.11-10.36.53:869][625]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.36.53:881][625]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.36.53:897][627]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.37.04:710][924]LogContentBrowser: Attempting asset rename: NewFolder -> Dialogues
+[2023.01.11-10.37.04:714][924]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.11-10.37.07:391][227]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.11-10.37.07:399][227]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.11-10.37.07:405][228]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.11-10.37.13:676][981]LogContentBrowser: Attempting asset rename: NewFolder -> Ambiances
+[2023.01.11-10.37.13:677][981]LogContentBrowser: End creating deferred item NewFolder
