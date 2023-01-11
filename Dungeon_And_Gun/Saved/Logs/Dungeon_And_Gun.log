@@ -10879,3 +10879,39 @@ Script Stack (0 frames):
 [2023.01.11-13.59.38:655][276]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/LV1/LV1.
 [2023.01.11-13.59.38:722][284]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/LV1/LV1.
 [2023.01.11-13.59.39:104][328]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/LV1/LV1.
+[2023.01.11-14.04.49:689][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.11-14.04.49:720][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/LV1/LV1" FILE="../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/LV1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.11-14.04.49:745][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.11-14.04.49:763][677]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/LV1/LV1
+[2023.01.11-14.04.49:764][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/LV1504F849540723DB121537C9DD7BEEC03.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/LV1.umap'
+[2023.01.11-14.04.49:777][677]LogFileHelpers: Saving map 'LV1' took 0.057
+[2023.01.11-14.04.49:788][677]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Characters/BP_TopDownCharacter
+[2023.01.11-14.04.49:788][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/BP_TopDownCharacter1E222797446417D069E85FB1C88FEAC9.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Characters/BP_TopDownCharacter.uasset'
+[2023.01.11-14.04.49:831][677]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Inventory/InventorySystem
+[2023.01.11-14.04.49:831][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/InventorySystem6C5342ED400881679B2CEEB0AF662194.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Inventory/InventorySystem.uasset'
+[2023.01.11-14.04.49:832][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/LV1/Ennemy/BP_LeafGear1" FILE="../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/Ennemy/BP_LeafGear1.uasset" SILENT=true
+[2023.01.11-14.04.49:844][677]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/LV1/Ennemy/BP_LeafGear1
+[2023.01.11-14.04.49:844][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/BP_LeafGear12B077717457A7CCAADACB0A5092AFD11.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/Ennemy/BP_LeafGear1.uasset'
+[2023.01.11-14.04.49:855][677]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Characters/BP_LeafGear
+[2023.01.11-14.04.49:855][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/BP_LeafGear030C0D7F4C9AD41D4E2708AF9C2EF973.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Characters/BP_LeafGear.uasset'
+[2023.01.11-14.04.49:856][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Materials/M_StylizedWater" FILE="../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/FX/Materials/M_StylizedWater.uasset" SILENT=true
+[2023.01.11-14.04.49:858][677]LogSavePackage: Moving output files for package: /Game/FX/Materials/M_StylizedWater
+[2023.01.11-14.04.49:859][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/M_StylizedWater2B076B8D495A4BD4C45D1788F2BE5372.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/FX/Materials/M_StylizedWater.uasset'
+[2023.01.11-14.04.49:888][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-14.04.49:915][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.11-14.04.49:917][677]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/LV1/Materials/MI_WaterEgouts
+[2023.01.11-14.04.49:917][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/MI_WaterEgoutsCEDCC3AA4E1671F5F1060D90951C073B.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/Materials/MI_WaterEgouts.uasset'
+[2023.01.11-14.04.49:918][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/LV1/Materials/MI_Brick" FILE="../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/Materials/MI_Brick.uasset" SILENT=true
+[2023.01.11-14.04.49:944][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.11-14.04.49:971][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.11-14.04.49:973][677]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/LV1/Materials/MI_Brick
+[2023.01.11-14.04.49:974][677]LogSavePackage: Moving '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Saved/MI_Brick3EABADEF420AFDE615FE95A05543EEF3.tmp' to '../../../../../Github/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/LV1/Materials/MI_Brick.uasset'
+[2023.01.11-14.04.49:986][677]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Characters/BP_TopDownCharacter.BP_TopDownCharacter
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Inventory/InventorySystem.InventorySystem
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Maps/LV1/Ennemy/BP_LeafGear1.BP_LeafGear1
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Characters/BP_LeafGear.BP_LeafGear
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating Material /Game/FX/Materials/M_StylizedWater.M_StylizedWater
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/TopDown/Maps/LV1/Materials/MI_WaterEgouts.MI_WaterEgouts
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating World /Game/TopDown/Maps/LV1/LV1.LV1
+[2023.01.11-14.04.49:986][677]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/TopDown/Maps/LV1/Materials/MI_Brick.MI_Brick
