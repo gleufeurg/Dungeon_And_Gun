@@ -1,0 +1,1450 @@
+﻿Log file open, 01/11/23 09:41:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=13876)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Dungeon_And_Gun
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1766] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9a1f6aae4d2bdb91a1e8e3bf1b8cfa1d"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.248712
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-16C6AA494D72962472B331B8D868CF6E
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1766] (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.11-08.41.30:562][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.11-08.41.30:563][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.11-08.41.30:564][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.11-08.41.30:565][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.11-08.41.30:565][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.11-08.41.30:565][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.11-08.41.30:565][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.11-08.41.30:565][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.11-08.41.30:599][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.11-08.41.30:599][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.11-08.41.30:906][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1080 (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.11-08.41.30:906][  0]LogD3D12RHI: Adapter has 8079MB of dedicated video memory, 0MB of dedicated system memory, and 16273MB of shared system memory, 1 output[s]
+[2023.01.11-08.41.30:920][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.11-08.41.30:920][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16273MB of shared system memory, 0 output[s]
+[2023.01.11-08.41.30:922][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.11-08.41.30:922][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.11-08.41.30:922][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.11-08.41.30:922][  0]LogHAL: Display: Platform has ~ 32 GB [34128306176 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.11-08.41.30:922][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.11-08.41.30:922][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.11-08.41.30:922][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.11-08.41.30:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.11-08.41.30:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.11-08.41.30:922][  0]LogInit: Computer: MOI-LAB10-PC10
+[2023.01.11-08.41.30:922][  0]LogInit: User: tlefevre1
+[2023.01.11-08.41.30:922][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.11-08.41.30:922][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.11-08.41.30:922][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.01.11-08.41.30:922][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.11-08.41.30:922][  0]LogMemory: Process Physical Memory: 273.30 MB used, 286.39 MB peak
+[2023.01.11-08.41.30:922][  0]LogMemory: Process Virtual Memory: 227.88 MB used, 227.88 MB peak
+[2023.01.11-08.41.30:922][  0]LogMemory: Physical Memory: 7373.16 MB used,  25174.13 MB free, 32547.29 MB total
+[2023.01.11-08.41.30:922][  0]LogMemory: Virtual Memory: 8885.20 MB used,  28526.09 MB free, 37411.29 MB total
+[2023.01.11-08.41.30:922][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.11-08.41.30:926][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.11-08.41.30:935][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.11-08.41.30:936][  0]LogInit: Using OS detected language (en-US).
+[2023.01.11-08.41.30:936][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.01.11-08.41.30:940][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2023.01.11-08.41.31:086][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.11-08.41.31:096][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.11-08.41.31:096][  0]LogWindowsTextInputMethodSystem:   - French (France) - (Keyboard).
+[2023.01.11-08.41.31:096][  0]LogWindowsTextInputMethodSystem:   - French (France) - Touch Input Correction (TSF IME).
+[2023.01.11-08.41.31:096][  0]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2023.01.11-08.41.31:106][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.11-08.41.31:106][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.11-08.41.31:204][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.11-08.41.31:207][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.11-08.41.31:207][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.11-08.41.31:279][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.11-08.41.31:345][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.11-08.41.31:350][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.11-08.41.31:360][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.11-08.41.31:394][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.11-08.41.31:394][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.11-08.41.31:430][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2023.01.11-08.41.31:430][  0]LogD3D12RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.11-08.41.31:430][  0]LogWindows: Attached monitors:
+[2023.01.11-08.41.31:430][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.11-08.41.31:430][  0]LogWindows: Found 1 attached monitors.
+[2023.01.11-08.41.31:430][  0]LogWindows: EnumDisplayDevices:
+[2023.01.11-08.41.31:431][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.11-08.41.31:431][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.11-08.41.31:431][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.11-08.41.31:431][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.11-08.41.31:432][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.11-08.41.31:432][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2023.01.11-08.41.31:432][  0]LogD3D12RHI:   Driver Version: 511.09 (internal:30.0.15.1109, unified:511.09)
+[2023.01.11-08.41.31:432][  0]LogD3D12RHI:      Driver Date: 12-29-2021
+[2023.01.11-08.41.31:432][  0]LogRHI: Texture pool is 4605 MB (70% of 6579 MB)
+[2023.01.11-08.41.31:432][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.11-08.41.31:432][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.11-08.41.31:450][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.11-08.41.40:489][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1080
+Installed: 511.09
+Recommended: 516.25
+[2023.01.11-08.41.40:493][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyReport_0.log" -log="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyLog_0.log" -project="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject"  -platform=all'
+[2023.01.11-08.41.40:493][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyReport_0.log" -log="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/TurnkeyLog_0.log" -project="C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Dungeon_And_Gun.uproject"  -platform=all" ]
+[2023.01.11-08.41.40:508][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.11-08.41.40:513][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.11-08.41.40:513][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.11-08.41.40:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.11-08.41.40:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.11-08.41.40:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.11-08.41.40:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.11-08.41.40:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.11-08.41.40:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.11-08.41.40:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.11-08.41.40:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.11-08.41.40:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.11-08.41.40:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.11-08.41.40:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.11-08.41.40:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.11-08.41.40:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.11-08.41.40:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.11-08.41.40:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.11-08.41.40:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.11-08.41.40:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.11-08.41.40:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.11-08.41.40:547][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.11-08.41.40:552][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.11-08.41.40:553][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.11-08.41.40:553][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.11-08.41.40:553][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.11-08.41.40:553][  0]LogTargetPlatformManager:   PCM
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager:   BINKA
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager:   OGG
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.11-08.41.40:555][  0]LogTargetPlatformManager:   OPUS
+[2023.01.11-08.41.40:586][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.11-08.41.40:589][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.11-08.41.40:591][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.11-08.41.40:592][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.11-08.41.40:592][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.11-08.41.40:596][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.11-08.41.40:596][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.11-08.41.40:600][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.11-08.41.40:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.11-08.41.40:602][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.11-08.41.40:602][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.11-08.41.40:602][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.11-08.41.40:619][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.11-08.41.40:619][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.11-08.41.40:619][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.11-08.41.40:625][  0]LogDerivedDataCache: Speed tests for C:/Users/t_lefevre1/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.01.11-08.41.40:625][  0]LogDerivedDataCache: Display: Performance to C:/Users/t_lefevre1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1256.84MBs, RandomWriteSpeed=240.30MBs. Assigned SpeedClass 'Local'
+[2023.01.11-08.41.40:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/t_lefevre1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.11-08.41.40:626][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.11-08.41.40:626][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.11-08.41.40:631][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.11-08.41.40:631][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.11-08.41.40:631][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Intermediate/Shaders/WorkingDirectory/2612/).
+[2023.01.11-08.41.40:632][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/t_lefevre1/AppData/Local/Temp/UnrealShaderWorkingDir/EC2F233A4239B12FBECE86B0B981814A/'.
+[2023.01.11-08.41.40:632][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.11-08.41.40:632][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.01.11-08.41.41:862][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.11-08.41.41:862][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.11-08.41.41:862][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.11-08.41.41:898][  0]LogAssetRegistry: FAssetRegistry took 0.0111 seconds to start up
+[2023.01.11-08.41.41:903][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.11-08.41.42:103][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.11-08.41.42:104][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.11-08.41.42:374][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.11-08.41.42:374][  0]LogDeviceProfileManager: Active device profile: [00000B6F72BCFA40][00000B6F6B010000 50] WindowsEditor
+[2023.01.11-08.41.42:374][  0]LogDeviceProfileManager: Profiles: [00000B6F72BCF500][00000B6F6B012800 50] Windows, [00000B6F72BCFA40][00000B6F6B010000 50] WindowsEditor, [00000B6F72BCEFC0][00000B6F6B01A000 50] WindowsServer, [00000B6F72BCC240][00000B6F59B17800 50] WindowsClient, [00000B6F72BCC400][00000B6F677D7800 50] IOS, [00000B6F72BCEA80][00000B6F6B015000 50] iPadAir2, [00000B6F736C0000][00000B6F73690000 50] IPadPro, [00000B6F736C0380][00000B6F73692800 50] iPadAir3, [00000B6F736C24C0][00000B6F73697800 50] iPadAir4, [00000B6F736C2300][00000B6F7369A000 50] iPadMini4, [00000B6F736C2680][00000B6F7369C800 50] iPadMini5, [00000B6F736C0700][00000B6F677D5000 50] iPadMini6, [00000B6F736C71C0][00000B6F736D2800 50] iPhone6S, [00000B6F736C7540][00000B6F736D0000 50] iPhone7, [00000B6F736C78C0][00000B6F736D5000 50] iPodTouch7, [00000B6F736C4440][00000B6F736DA000 50] iPhone6SPlus, [00000B6F736C5B00][00000B6F736DC800 50] iPhone7Plus, [00000B6F736C3D40][00000B6F73695000 50] iPhoneSE, [00000B6F736C1880][00000B6F736D7800 50] iPhone8, [00000B6F736C4980][00000B6F73660000 50] iPhone8Plus, [00000B6F736C2F40][00000B6F73665000 50] iPhoneX, [00000B6F736C3100][00000B6F73667800 50] iPhoneXS, [00000B6F736C2140][00000B6F7366A000 50] iPhoneXSMax, [00000B6F736C3800][00000B6F7366C800 50] iPhoneXR, [00000B6F736C3B80][00000B6F6B94C800 50] iPhone11, [00000B6F736C1500][00000B6F73730000 50] iPhone11Pro, [00000B6F736C4600][00000B6F73735000 50] iPhone11ProMax, [00000B6F736C6AC0][00000B6F73737800 50] iPhoneSE2, [00000B6F736C2A00][00000B6F7373A000 50] iPhone12Mini, [00000B6F736C7700][00000B6F7373C800 50] iPhone12, [00000B6F736C6040][00000B6F73662800 50] iPhone12Pro, [00000B6F736C4280][00000B6F73740000 50] iPhone12ProMax, [00000B6F736C7380][00000B6F73745000 50] iPhone13Mini, [00000B6F736C01C0][00000B6F73747800 50] iPhone13, [00000B6F736C63C0][00000B6F7374A000 50] iPhone13Pro, [00000B6F736C16C0][00000B6F7374C800 50] iPhone13ProMax, [00000B6F736C6740][00000B6F73732800 50] iPadPro105, [00000B6F736C0E00][00000B6F73640000 50] iPadPro129, [00000B6F736C5940][00000B6F73645000 50] iPadPro97, [00000B6F736C6580][00000B6F73647800 50] iPadPro2_129, [00000B6F736C1DC0][00000B6F7364A000 50] iPad5, [00000B6F736C39C0][00000B6F7364C800 50] iPad6, [00000B6F736C40C0][00000B6F73742800 50] iPad7, [00000B6F736C5CC0][00000B6F73650000 50] iPad8, [00000B6F736C6900][00000B6F73655000 50] iPad9, [00000B6F736C6200][00000B6F73657800 50] iPadPro11, [00000B6F736C2840][00000B6F7365A000 50] iPadPro2_11, [00000B6F736C5E80][00000B6F7365C800 50] iPadPro3_11, [00000B6F736C4B40][00000B6F73642800 50] iPadPro3_129, [00000B6F736C7000][00000B6F736E0000 50] iPadPro4_129, [00000B6F736C1F80][00000B6F736E5000 50] iPadPro5_129, [00000B6F736C47C0][00000B6F736E7800 50] AppleTV, [00000B6F736C5780][00000B6F736EA000 50] AppleTV4K, [00000B6F736C5400][00000B6F736EC800 50] TVOS, [00000B6F736C9680][00000B6F73760000 50] Mac, [00000B6F736C9A00][00000B6F73762800 50] MacEditor, [00000B6F736C86C0][00000B6F73767800 50] MacClient, [00000B6F736C0FC0][00000B6F7376A000 50] MacServer, [00000B6F736C9D80][00000B6F73652800 50] Linux, [00000B6F736CA100][00000B6F736E2800 50] LinuxEditor, [00000B6F736C0540][00000B6F7376C800 50] LinuxArm64Editor, [00000B6F736C94C0][00000B6F736F0000 50] LinuxArm64, [00000B6F736C5240][00000B6F736F5000 50] LinuxClient, [00000B6F736C9300][00000B6F736F7800 50] LinuxArm64Client, [00000B6F736C7C40][00000B6F736FA000 50] LinuxServer, [00000B6F736C9140][00000B6F736FC800 50] LinuxArm64Server, [00000B6F736C8F80][00000B6F73765000 50] Android, [00000B6F736C1180][00000B6F73700000 50] Android_Preview_OpenGL, [00000B6F736C1340][00000B6F73705000 50] Android_Preview_Vulkan, [00000B6F736CA9C0][00000B6F73707800 50] Android_Low, [00000B6F736C8880][00000B6F7370A000 50] Android_Mid, [00000B6F736C3640][00000B6F7370C800 50] Android_High, [00000B6F736C7E00][00000B6F736F2800 50] Android_Default, [00000B6F736C7A80][00000B6F73710000 50] Android_Adreno4xx, [00000B6F736C9F40][00000B6F73715000 50] Android_Adreno5xx_Low, [00000B6F736C9BC0][00000B6F73717800 50] Android_Adreno5xx, [00000B6F736C8A40][00000B6F7371A000 50] Android_Adreno6xx, [00000B6F736CA2C0][00000B6F7371C800 50] Android_Adreno6xx_Vulkan, [00000B6F736C0C40][00000B6F73702800 50] Android_Adreno7xx, [00000B6F736C8180][00000B6F73770000 50] Android_Adreno7xx_Vulkan, [00000B6F736C08C0][00000B6F73775000 50] Android_Mali_T6xx, [00000B6F736C2D80][00000B6F73777800 50] Android_Mali_T7xx, [00000B6F736CAB80][00000B6F7377A000 50] Android_Mali_T8xx, [00000B6F736C8C00][00000B6F7377C800 50] Android_Mali_G71, [00000B6F736C3F00][00000B6F73712800 50] Android_Mali_G72, [00000B6F736CA640][00000B6F73780000 50] Android_Mali_G72_Vulkan, [00000B6F736C9840][00000B6F73785000 50] Android_Mali_G76, [00000B6F736C4D00][00000B6F73787800 50] Android_Mali_G76_Vulkan, [00000B6F736C1A40][00000B6F7378A000 50] Android_Mali_G77, [00000B6F736C1C00][00000B6F7378C800 50] Android_Mali_G77_Vulkan, [00000B6F736C3480][00000B6F73772800 50] Android_Mali_G78, [00000B6F736C8500][00000B6F73790000 50] Android_Mali_G78_Vulkan, [00000B6F736C4EC0][00000B6F73795000 50] Android_Mali_G710, [00000B6F736C8340][00000B6F73797800 50] Android_Mali_G710_Vulkan, [00000B6F736C6C80][00000B6F7379A000 50] Android_Xclipse_920, [00000B6F736C7FC0][00000B6F7379C800 50] Android_Xclipse_920_Vulkan, [00000B6F736CB7C0][00000B6F73782800 50] Android_Vulkan_SM5, [00000B6F736CBD00][00000B6F737A0000 50] Android_PowerVR_G6xxx, [00000B6F736CB440][00000B6F737A5000 50] Android_PowerVR_GT7xxx, [00000B6F736CC5C0][00000B6F737A7800 50] Android_PowerVR_GE8xxx, [00000B6F736CC400][00000B6F737AA000 50] Android_PowerVR_GM9xxx, [00000B6F736CC780][00000B6F737AC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B6F736C2BC0][00000B6F73792800 50] Android_TegraK1, [00000B6F736CB0C0][00000B6F737B0000 50] Android_Unknown_Vulkan, [00000B6F736C32C0][00000B6F737B5000 50] Oculus_Quest, [00000B6F736CB980][00000B6F737B7800 50] Oculus_Quest2, [00000B6F736C55C0][00000B6F737BA000 50] HoloLens, 
+[2023.01.11-08.41.42:374][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.11-08.41.42:386][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.11-08.41.42:561][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.11-08.41.42:561][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1190.9.3.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.11-08.41.42:561][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.11-08.41.42:561][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.11-08.41.42:561][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.01.11-08.41.42:612][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.11-08.41.42:612][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.11-08.41.42:612][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.11-08.41.42:612][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.11-08.41.42:612][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.11-08.41.42:630][  0]LogNetVersion: Dungeon_And_Gun 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1335253079)
+[2023.01.11-08.41.42:746][  0]LogSlate: Border
+[2023.01.11-08.41.42:746][  0]LogSlate: BreadcrumbButton
+[2023.01.11-08.41.42:746][  0]LogSlate: Default
+[2023.01.11-08.41.42:746][  0]LogSlate: Icons.Save
+[2023.01.11-08.41.42:746][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.11-08.41.42:746][  0]LogSlate: ListView
+[2023.01.11-08.41.42:746][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.11-08.41.42:746][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.11-08.41.42:746][  0]LogSlate: TableView.DarkRow
+[2023.01.11-08.41.42:746][  0]LogSlate: TableView.Row
+[2023.01.11-08.41.42:746][  0]LogSlate: TreeView
+[2023.01.11-08.41.42:899][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.42:923][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.42:923][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.43:024][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.11-08.41.43:024][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2023.01.11-08.41.43:024][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.11-08.41.43:298][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.11-08.41.43:302][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.11-08.41.43:306][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7314BD9C45206417A08C479FCAA9CBF4 | Instance: 858ED8E84FB03AC8ADAF2EBFE50E0745 (MOI-LAB10-PC10-2612).
+[2023.01.11-08.41.43:336][  0]LogPython: Using Python 3.9.7
+[2023.01.11-08.41.44:089][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.44:092][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.44:097][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.44:122][  0]LogUProjectInfo: Found projects:
+[2023.01.11-08.41.44:351][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.11-08.41.44:399][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.11-08.41.44:399][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.11-08.41.44:407][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.11-08.41.44:486][  0]LogCollectionManager: Loaded 0 collections in 0.001696 seconds
+[2023.01.11-08.41.44:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/Collections/' took 0.00s
+[2023.01.11-08.41.44:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/Developers/tlefevre1/Collections/' took 0.00s
+[2023.01.11-08.41.44:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/Collections/' took 0.00s
+[2023.01.11-08.41.44:841][  0]LogEngine: Initializing Engine...
+[2023.01.11-08.41.44:855][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.11-08.41.44:859][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.11-08.41.45:085][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.11-08.41.45:086][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.11-08.41.45:095][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-08.41.45:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.11-08.41.45:122][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.11-08.41.45:141][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.11-08.41.45:141][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.11-08.41.45:142][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.11-08.41.45:142][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.11-08.41.45:148][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.11-08.41.45:186][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.01.11-08.41.45:186][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.11-08.41.45:188][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.11-08.41.45:188][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.11-08.41.45:188][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.11-08.41.45:188][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.11-08.41.45:189][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.11-08.41.45:189][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.11-08.41.45:189][  0]LogInit: FAudioDevice initialized.
+[2023.01.11-08.41.45:190][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.11-08.41.45:190][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.11-08.41.45:190][  0]LogInit: Texture streaming: Enabled
+[2023.01.11-08.41.45:220][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.11-08.41.45:227][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.11-08.41.45:251][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.11-08.41.45:257][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.11-08.41.45:257][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.11-08.41.47:013][  0]LogLiveCoding: Display: First instance in process group "UE_Dungeon_And_Gun_0x8bbb748a", spawning console
+[2023.01.11-08.41.47:013][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.11-08.41.47:013][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.11-08.41.47:037][  0]LogInit: Transaction tracking system initialized
+[2023.01.11-08.41.47:109][  0]BlueprintLog: New page: Editor Load
+[2023.01.11-08.41.47:298][  0]LocalizationService: Localization service is disabled
+[2023.01.11-08.41.47:345][  0]TimingProfiler: Initialize
+[2023.01.11-08.41.47:345][  0]TimingProfiler: OnSessionChanged
+[2023.01.11-08.41.47:345][  0]LoadingProfiler: Initialize
+[2023.01.11-08.41.47:345][  0]LoadingProfiler: OnSessionChanged
+[2023.01.11-08.41.47:345][  0]NetworkingProfiler: Initialize
+[2023.01.11-08.41.47:345][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.11-08.41.47:345][  0]MemoryProfiler: Initialize
+[2023.01.11-08.41.47:345][  0]MemoryProfiler: OnSessionChanged
+[2023.01.11-08.41.47:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/' took 0.01s
+[2023.01.11-08.41.47:874][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.11-08.41.48:053][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.11-08.41.48:054][  0]SourceControl: Source control is disabled
+[2023.01.11-08.41.48:054][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.468
+[2023.01.11-08.41.48:054][  0]Cmd: MAP LOAD FILE="../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.11-08.41.48:055][  0]LightingResults: New page: Lighting Build
+[2023.01.11-08.41.48:061][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.11-08.41.48:061][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.11-08.41.48:061][  0]MapCheck: New page: Map Check
+[2023.01.11-08.41.48:061][  0]LightingResults: New page: Lighting Build
+[2023.01.11-08.41.48:067][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.11-08.41.48:069][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.01.11-08.41.48:500][  0]LogTexture: Display: Building textures: /Game/TopDown/Blueprints/Inventory/Items/Icons/IconMushroom.IconMushroom (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.01.11-08.41.48:500][  0]LogTexture: Display: Building textures: /Game/UI/Pause_Menue/Image/cutaway2.cutaway2 (BGRA8, 659X371 X1X1) (Required Memory Estimate: 4.663258 MB), EncodeSpeed: Fast
+[2023.01.11-08.41.48:500][  0]LogTexture: Display: Building textures: /Game/UI/Pause_Menue/Image/classroom.classroom (BGRA8, 659X494 X1X1) (Required Memory Estimate: 6.209297 MB), EncodeSpeed: Fast
+[2023.01.11-08.41.48:500][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Ching-Chang-Hon-Chi-_-Tom...
+[2023.01.11-08.41.48:503][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/TopDown/Blueprints/SFX/Ching-Chang-Hon-Chi-_-Tom.Ching-Chang-Hon-Chi-_-Tom will be modified from 40 to 40.
+[2023.01.11-08.41.48:776][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5380200 while cooking SoundWave /Game/TopDown/Blueprints/SFX/Ching-Chang-Hon-Chi-_-Tom.Ching-Chang-Hon-Chi-_-Tom.
+[2023.01.11-08.41.48:777][  0]LogAudio: Display: Chunk size for SoundWave /Game/TopDown/Blueprints/SFX/Ching-Chang-Hon-Chi-_-Tom.Ching-Chang-Hon-Chi-_-Tom: 262144
+[2023.01.11-08.41.48:862][  0]LogMaterial: Display: Missing cached shadermap for MushroomMinMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 221EE9180961FB46830EB4398571CBA4E8E0A009), compiling. 
+[2023.01.11-08.41.48:934][  0]LogMaterial: Display: Missing cached shadermap for MushroomPlusMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F60837F1F74358C7DBFB46FE8EF5D5F5749E591A), compiling. 
+[2023.01.11-08.41.48:954][  0]LogMaterial: Display: Missing cached shadermap for MUI_Circle in PCD3D_SM5, Default, SM5 (DDC key hash: 13980E11207702394BD42A413CC8DA3ED38819B4), compiling. 
+[2023.01.11-08.41.49:085][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2023.01.11-08.41.49:094][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-08.41.49:094][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2023.01.11-08.41.49:095][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.11-08.41.49:095][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.11-08.41.49:111][  0]LogTexture: Display: Building textures: /Game/TopDown/Blueprints/Tetris/PNG/images.images (BGRA8, 119X145 X1X1) (Required Memory Estimate: 0.329113 MB), EncodeSpeed: Fast
+[2023.01.11-08.41.49:111][  0]LogMaterial: Display: Missing cached shadermap for M_Amogus in PCD3D_SM5, Default, SM5 (DDC key hash: C91C1F464FE76FC3BD79000EBCC803900F84DB0F), compiling. 
+[2023.01.11-08.41.49:165][  0]LogStaticMesh: Display: Building static mesh Box_0A56489E...
+[2023.01.11-08.41.49:165][  0]LogStaticMesh: Built static mesh [0.01s] /Game/TopDown/Maps/_GENERATED/tlefevre1/Box_0A56489E.Box_0A56489E
+[2023.01.11-08.41.49:165][  0]LogMaterial: Display: Missing cached shadermap for M_Solid in PCD3D_SM5, Default, SM5 (DDC key hash: 27385F7735AA89BC147092A14CAABC282FE7057F), compiling. 
+[2023.01.11-08.41.49:237][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave the-rock-memeGood...
+[2023.01.11-08.41.49:237][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/TopDown/Blueprints/SFX/the-rock-memeGood.the-rock-memeGood will be modified from 40 to 40.
+[2023.01.11-08.41.49:278][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 674472 while cooking SoundWave /Game/TopDown/Blueprints/SFX/the-rock-memeGood.the-rock-memeGood.
+[2023.01.11-08.41.49:278][  0]LogAudio: Display: Chunk size for SoundWave /Game/TopDown/Blueprints/SFX/the-rock-memeGood.the-rock-memeGood: 262144
+[2023.01.11-08.41.49:299][  0]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave discord-notification...
+[2023.01.11-08.41.49:299][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/TopDown/Blueprints/SFX/discord-notification.discord-notification will be modified from 40 to 40.
+[2023.01.11-08.41.49:304][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 91396 while cooking SoundWave /Game/TopDown/Blueprints/SFX/discord-notification.discord-notification.
+[2023.01.11-08.41.49:304][  0]LogAudio: Display: Chunk size for SoundWave /Game/TopDown/Blueprints/SFX/discord-notification.discord-notification: 262144
+[2023.01.11-08.41.50:128][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.01.11-08.41.50:128][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.01.11-08.41.50:128][  0]LogSkeletalMesh: Building Skeletal Mesh SKM_Quinn...
+[2023.01.11-08.41.50:138][  0]LogLinker: Warning: [AssetLog] C:\Users\t_lefevre1\Documents\GitHub\The-Game-of-Growth\The-Game-of-Growth\Dungeon_And_Gun\Content\TopDown\Blueprints\Inventory\Items\Pick\PickableMushroomPlus.uasset: Failed to load '/Game/Materials/MushroomPlusMaterial': Can't find file.
+[2023.01.11-08.41.50:138][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Materials/MushroomPlusMaterial'
+[2023.01.11-08.41.50:181][  0]LogWorldPartition: Display: WorldPartition initialize took 1.08 sec
+[2023.01.11-08.41.50:206][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn) ...
+[2023.01.11-08.41.55:631][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.01.11-08.42.00:904][  0]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.01.11-08.42.04:453][  0]LogSkeletalMesh: Built Skeletal Mesh [14.35s] /Game/Characters/Mannequins/Meshes/SKM_Quinn.SKM_Quinn
+[2023.01.11-08.42.04:453][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.11-08.42.04:454][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.01.11-08.42.04:466][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.01.11-08.42.04:467][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.11-08.42.04:467][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,216ms to complete.
+[2023.01.11-08.42.04:467][  0]LogFileHelpers: Loading map 'TopDownMap' took 16.412
+[2023.01.11-08.42.04:481][  0]LogUnrealEdMisc: Total Editor Startup Time, took 34.895
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: ================================================
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Total job queries 108, among them cache hits 0 (0.00%)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Tracking 108 distinct input hashes that result in 49 distinct outputs (45.37%)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Shaders Compiled: 108
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Jobs assigned 108, completed 108 (100.00%)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 3.88 s, longest 11.30 s
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Job execution time: average 4.41 s, max 7.45 s
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 8.28 s, max 12.03
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.21 s
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 3.60 jobs/batch
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Average processing rate: 8.84 jobs/sec
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Effective parallelization: 7.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 1.12 sec, max 1.25 sec, min 1.04 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 1.06 sec, max 1.18 sec, min 0.98 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 1.03 sec, max 1.17 sec, min 0.91 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 1.02 sec, max 1.18 sec, min 0.91 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.34% of total time (compiled    5 times, average 1.12 sec, max 1.25 sec, min 1.04 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.30% of total time (compiled    6 times, average 0.93 sec, max 1.07 sec, min 0.80 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.21% of total time (compiled    6 times, average 0.92 sec, max 1.00 sec, min 0.85 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.18% of total time (compiled    6 times, average 0.91 sec, max 1.03 sec, min 0.77 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.01% of total time (compiled    5 times, average 1.06 sec, max 1.18 sec, min 0.98 sec)
+[2023.01.11-08.42.04:481][  0]LogShaderCompilers: Display: ================================================
+[2023.01.11-08.42.04:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-08.42.04:644][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-08.42.04:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-08.42.04:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.11-08.42.04:827][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:827][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:835][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:835][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:841][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:841][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:847][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:847][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:860][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:860][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:866][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:866][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:873][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:873][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:879][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:879][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:885][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:885][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:891][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.11-08.42.04:891][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.11-08.42.04:892][  0]LogFeaturePack: Error: Error in Feature pack C:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.11-08.42.05:205][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.11-08.42.05:215][  0]LogSlate: Took 0.004671 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.11-08.42.05:223][  0]LogSlate: Took 0.006362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.11-08.42.05:244][  0]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2023.01.11-08.42.08:172][  0]LogStall: Startup...
+[2023.01.11-08.42.08:174][  0]LogStall: Startup complete.
+[2023.01.11-08.42.08:185][  0]LogLoad: (Engine Initialization) Total time: 38.60 seconds
+[2023.01.11-08.42.08:185][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.11-08.42.08:253][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.01.11-08.42.08:253][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.01.11-08.42.08:253][  0]LogAssetRegistry: Asset discovery search completed in 26.3570 seconds
+[2023.01.11-08.42.08:261][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2023.01.11-08.42.08:265][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.11-08.42.08:305][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.11-08.42.08:368][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.01.11-08.42.08:368][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.01.11-08.42.08:537][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.01.11-08.42.08:557][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.01.11-08.42.09:371][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.01.11-08.42.09:371][  6]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.01.11-08.42.09:472][  8]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.01.11-08.42.09:472][  8]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.01.11-08.42.09:521][  8]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.01.11-08.42.09:521][  8]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.01.11-08.42.09:671][ 11]LogMeshUtilities: Finished distance field build in 1.3s - 63x63x63 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 84% occupied, 1322 triangles, EditorSphere
+[2023.01.11-08.42.10:872][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.11:542][124]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2023.01.11-08.42.17:415][667]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.11-08.42.17:416][667]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.42.17:418][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-08.42.18:497][667]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TopDownMap) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.11-08.42.18:518][667]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.11-08.42.38:224][995]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.01.11-08.42.39:557][133]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.39:611][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.11-08.42.39:642][134]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.41:718][368]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.41:765][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.42.41:788][369]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.42:321][433]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.42:369][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.42.42:392][434]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.42:758][478]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.42:808][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.42.42:832][479]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.43:231][527]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.43:277][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.11-08.42.43:300][528]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.43:783][586]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.43:832][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.42.43:855][587]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.43:963][600]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.44:009][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.42.44:032][601]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.44:407][646]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.44:454][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.11-08.42.44:477][647]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.44:735][678]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.44:782][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.01.11-08.42.44:805][679]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.44:914][692]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.44:960][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.11-08.42.44:983][693]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.45:441][748]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.45:487][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.42.45:510][749]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.45:752][778]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.45:799][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.42.45:822][779]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.47:313][958]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.47:360][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.42.47:383][959]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.42.47:675][994]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.42.47:723][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.11-08.42.47:746][995]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.26:913][638]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.26:960][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.43.27:009][639]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.27:500][681]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.005702 seconds
+[2023.01.11-08.43.27:523][681]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.43.27:523][681]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock7CC9329145AA91C239A0299B9B6A12F6.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.43.27:535][681]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.43.27:535][681]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.43.29:524][910]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.29:571][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.11-08.43.29:601][911]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.29:942][952]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.29:992][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.43.30:018][953]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.30:902][ 59]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.30:949][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.11-08.43.30:974][ 60]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.31:691][146]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.31:741][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.11-08.43.31:766][147]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.31:848][157]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.31:897][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.11-08.43.31:922][158]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.32:021][170]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.32:068][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.11-08.43.32:093][171]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.32:493][219]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.32:540][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.01.11-08.43.32:565][220]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.32:898][260]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.32:944][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.11-08.43.32:969][261]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.33:044][270]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.33:092][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.11-08.43.33:119][271]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.40:644][164]LogDerivedDataCache: C:/Users/t_lefevre1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.016 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.11-08.43.56:723][ 60]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.56:773][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.11-08.43.56:823][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.43.57:323][105]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.43.57:323][105]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock9EA88B8F47E36FB5C71C94BE256EC081.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.43.57:333][105]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.43.57:333][105]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.43.59:558][366]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.43.59:605][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.43.59:634][367]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.00:934][523]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.00:984][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.44.01:009][524]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.01:759][614]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.01:809][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.44.01:834][615]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.01:933][627]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.01:981][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.44.02:007][628]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.02:248][657]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.02:295][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.44.02:319][658]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.02:420][670]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.02:470][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.11-08.44.02:495][671]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.02:587][682]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.02:635][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.44.02:660][683]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.02:726][691]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.02:776][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.11-08.44.02:801][692]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.03:293][751]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.03:340][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.01.11-08.44.03:365][752]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.03:673][789]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.03:721][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.11-08.44.03:747][790]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.04:096][832]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.04:143][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.01.11-08.44.04:168][833]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.10:775][601]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.44.10:776][601]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockC87FECC04C04BE7DBD1D8F921CD1D744.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.44.10:787][601]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.44.10:787][601]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.44.11:742][706]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.11:791][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.44.11:842][707]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.12:256][745]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.44.12:256][745]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockA5417AE74F340DD5C52BD38962B6F910.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.44.12:267][745]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.44.12:267][745]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.44.15:006][ 56]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.15:053][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.11-08.44.15:082][ 57]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.15:540][112]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.15:589][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.44.15:616][113]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.16:224][186]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.16:272][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.11-08.44.16:297][187]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.16:672][232]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.16:722][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.01.11-08.44.16:747][233]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.31:598][997]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.11-08.44.33:126][119]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.33:221][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.44.33:269][120]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.33:661][157]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.44.33:661][157]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockA6B2967E4253AB152E007C8FC283F12F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.44.33:673][157]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.44.33:673][157]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.44.34:259][226]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.34:307][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.11-08.44.34:353][227]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.34:653][262]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.34:700][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.01.11-08.44.34:745][263]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.34:821][271]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.34:869][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.11-08.44.34:914][272]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.34:975][278]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.35:023][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.11-08.44.35:073][279]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.35:495][328]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.35:544][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.11-08.44.35:590][329]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.35:958][372]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.36:011][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.11-08.44.36:064][373]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.36:400][412]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.36:447][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.11-08.44.36:496][413]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.36:864][456]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.36:913][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.11-08.44.36:959][457]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.37:661][540]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.37:709][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.01.11-08.44.37:758][541]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.44.38:318][607]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.44.38:369][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.11-08.44.38:415][608]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.00:254][ 26]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.45.00:255][ 26]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock45BE5F3147448D1810571F9D9EC1726B.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.45.00:267][ 26]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.45.00:267][ 26]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.45.00:842][ 88]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.00:890][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.00:962][ 89]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.01:460][132]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.45.01:460][132]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockE0D36C7C47FF8F4568ACDBB5AE4CDA91.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.45.01:471][132]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.45.01:471][132]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.45.03:344][351]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.03:393][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.45.03:442][352]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.03:809][395]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.03:860][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.03:906][396]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.04:207][431]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.04:254][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.01.11-08.45.04:302][432]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.04:663][474]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.04:711][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.04:757][475]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.05:133][519]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.05:181][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.11-08.45.05:227][520]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.05:620][566]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.05:667][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.45.05:713][567]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.06:723][687]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.06:770][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.45.06:818][688]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.06:885][695]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.06:935][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.11-08.45.06:981][696]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.07:240][726]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.07:289][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.45.07:335][727]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.07:662][765]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.07:712][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.11-08.45.07:758][766]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.08:092][805]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.08:139][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.11-08.45.08:184][806]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.08:435][835]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.08:485][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.08:531][836]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.09:165][911]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.09:215][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.09:261][912]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.18:745][ 25]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.18:796][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.18:876][ 26]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.19:226][ 50]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.45.19:227][ 50]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockBD3BEDCC4D15A801FAAC5ABE0679F8E6.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.45.19:237][ 50]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.45.19:237][ 50]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.45.20:294][173]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.20:343][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.45.20:393][174]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.20:826][225]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.20:876][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.45.20:923][226]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.21:407][283]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.21:457][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.11-08.45.21:503][284]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.21:805][319]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.21:855][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.01.11-08.45.21:901][320]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.22:145][348]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.22:193][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.45.22:238][349]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.22:322][358]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.22:370][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.11-08.45.22:416][359]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.22:475][365]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.22:523][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.01.11-08.45.22:570][366]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.22:778][390]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.22:828][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.45.22:874][391]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.22:932][397]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.22:982][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.11-08.45.23:028][398]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.23:113][407]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.45.23:162][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.01.11-08.45.23:207][408]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.45.25:518][675]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.45.25:519][675]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockF99CBC6B406C7633A0975DA0D6F114A2.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.45.25:529][675]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.45.25:529][675]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.45.38:730][223]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.46.44:236][ 34]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.46.44:287][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.11-08.46.44:337][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.46.44:771][ 72]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.46.44:772][ 72]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockE8117DEF406F9D204F42E3AC8DE54B1A.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.46.44:784][ 72]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.46.44:784][ 72]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.46.55:989][388]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.46.56:037][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.11-08.46.56:086][389]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.46.56:410][417]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.46.56:411][417]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock66DB2E5C41579B81A7ECAA8431CF22A8.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.46.56:422][417]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.46.56:422][417]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.47.08:961][891]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.47.09:010][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.11-08.47.09:062][892]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.47.09:393][921]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.47.09:393][921]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockD351400E4AF4D25B4BDA4BA75132EB6F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.47.09:404][921]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.47.09:404][921]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.47.49:439][537]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.47.50:421][650]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.11-08.47.50:436][651]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.47.56:994][297]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.47.58:180][434]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.11-08.47.58:193][435]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.04:334][123]LogSlate: Took 0.004556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.11-08.48.13:775][169]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.16:936][532]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.17:276][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.01.11-08.48.17:326][533]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.18:102][623]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.18:159][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.11-08.48.18:207][624]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.18:452][652]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.18:505][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.11-08.48.18:549][653]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.18:784][680]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.18:838][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.01.11-08.48.18:882][681]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.18:959][689]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:011][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.11-08.48.19:106][695]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:156][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.11-08.48.19:307][697]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:360][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.01.11-08.48.19:459][698]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:513][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.01.11-08.48.19:601][699]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.19:737][709]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:788][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.11-08.48.19:832][710]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.19:901][717]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.19:952][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.01.11-08.48.19:995][718]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.24:727][243]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.11-08.48.25:945][243]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.11-08.48.27:551][431]LogEditorTransaction: Undo Replace component used material
+[2023.01.11-08.48.27:634][432]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.29:018][533]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.48.29:075][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.01.11-08.48.29:122][534]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.29:618][578]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.48.29:618][578]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock769845BE450E60D31D209F8C89F5C92F.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.48.29:630][578]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.48.29:630][578]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.48.51:416][145]LogEditorTransaction: Undo Move Nodes
+[2023.01.11-08.48.51:532][146]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.48.51:752][150]LogEditorTransaction: Undo Paste clipboard contents
+[2023.01.11-08.48.51:858][151]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.16:585][ 70]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.16:645][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.01.11-08.49.16:708][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.17:026][ 99]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.49.17:027][ 99]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockB9FBB54A49757C75303F73873B70F01E.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.49.17:038][ 99]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.49.17:038][ 99]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.49.21:735][407]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.11-08.49.23:693][641]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.23:751][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.01.11-08.49.23:813][642]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.24:143][670]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.49.24:143][670]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock989DF8CE42AF6FADB80CEC9C4B1594C1.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.49.24:155][670]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.49.24:155][670]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.49.45:691][212]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.45:748][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.01.11-08.49.45:812][213]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.46:193][245]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.49.46:193][245]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock8C4CD21A49632AE7A9B40CB2FEE8501C.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.49.46:205][245]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.49.46:205][245]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.49.58:559][712]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.58:616][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.01.11-08.49.58:647][713]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.59:164][775]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.59:220][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.49.59:246][776]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.49.59:763][838]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.49.59:822][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.11-08.49.59:848][839]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.00:280][891]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.00:337][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.01.11-08.50.00:363][892]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.17:009][848]LogEditorTransaction: Undo Change Vector Pin Value
+[2023.01.11-08.50.17:115][849]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.18:080][915]LogEditorTransaction: Undo Change Vector Pin Value
+[2023.01.11-08.50.18:133][916]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.19:460][ 62]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.50.19:460][ 62]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock14BDF47D432D2DEEB1F0E2944A3B5421.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.50.19:473][ 62]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.50.19:473][ 62]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.50.24:509][632]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.50.24:510][632]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock261357D94B2AB489ADCDC28B7D658515.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.50.24:521][632]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.50.24:522][632]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.50.25:124][697]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.25:183][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.50.25:245][698]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.25:578][723]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.50.25:579][723]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockECC30F7A4ECF45EAEE77BAB40E450BCA.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.50.25:591][723]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.50.25:591][723]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.50.27:261][913]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.27:318][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.50.27:349][914]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.27:724][959]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.27:781][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.11-08.50.27:806][960]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.27:898][971]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.27:955][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.11-08.50.27:981][972]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.28:338][ 15]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.28:395][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.50.28:421][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.28:779][ 59]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.28:837][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.50.28:863][ 60]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.29:295][112]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.29:352][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.11-08.50.29:378][113]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.29:711][153]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.29:769][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.01.11-08.50.29:795][154]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.30:045][184]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.30:102][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.11-08.50.30:127][185]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.30:919][280]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.30:978][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.50.31:004][281]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.31:396][328]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.31:454][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.11-08.50.31:480][329]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.32:197][415]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.32:254][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.01.11-08.50.32:279][416]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.32:603][455]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.32:662][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.11-08.50.32:687][456]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.32:771][466]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.32:827][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.50.32:853][467]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.39:825][271]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.39:881][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.50.39:945][272]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.41:790][478]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.41:847][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.11-08.50.41:877][479]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.42:285][528]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.42:343][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.11-08.50.42:370][529]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.42:687][567]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.42:743][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.50.42:768][568]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.43:168][616]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.43:225][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.11-08.50.43:250][617]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.50.44:559][774]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.50.44:618][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.01.11-08.50.44:644][775]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.02:941][937]LogEditorTransaction: Undo Modify Component(s)
+[2023.01.11-08.51.04:058][ 11]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.04:115][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.51.04:164][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.04:457][ 33]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.51.04:458][ 33]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock8A779FC84A73E062CFA2038081C23482.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.51.04:471][ 33]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.51.04:471][ 33]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.51.26:445][600]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.26:503][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.11-08.51.26:593][601]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.26:920][621]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.51.26:920][621]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock51B66C714174AF832A994BABAE0404B5.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.51.26:932][621]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.51.26:932][621]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.51.27:882][722]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.27:940][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.51.27:990][723]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.28:291][758]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.28:347][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.51.28:394][759]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.28:753][801]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.28:811][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.11-08.51.28:859][802]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.29:251][848]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.29:307][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.11-08.51.29:355][849]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.29:848][907]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.29:908][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.11-08.51.29:954][908]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.30:323][951]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.30:379][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.11-08.51.30:426][952]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.30:793][995]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.30:852][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.11-08.51.30:898][996]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.31:275][ 40]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.31:331][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.11-08.51.31:378][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.31:579][ 64]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.31:636][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.11-08.51.31:684][ 65]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.32:093][113]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.32:149][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.51.32:196][114]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.32:646][167]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.32:705][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.01.11-08.51.32:752][168]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.33:429][248]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.33:488][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.11-08.51.33:535][249]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.35:819][522]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.35:876][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.11-08.51.35:922][523]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.36:457][586]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.36:514][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.51.36:562][587]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.36:674][599]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.36:732][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.01.11-08.51.36:778][600]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.37:030][629]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.37:089][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.11-08.51.37:136][630]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.54:132][598]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.54:190][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.11-08.51.54:278][599]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.54:610][624]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.51.54:611][624]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlockA60A75C04728D37E0351F796F35B702C.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.51.54:622][624]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.51.54:622][624]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.51.55:656][737]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.55:712][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.11-08.51.55:763][738]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.56:308][802]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.56:365][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.51.56:413][803]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.56:730][840]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.56:787][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.01.11-08.51.56:833][841]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.58:285][  3]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.58:343][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.11-08.51.58:389][  4]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.58:757][ 47]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.58:814][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.11-08.51.58:862][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.59:238][ 92]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.59:296][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.01.11-08.51.59:342][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.51.59:744][140]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.51.59:801][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.01.11-08.51.59:848][141]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.52.00:091][169]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.52.00:147][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.01.11-08.52.00:193][170]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.52.01:119][280]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.52.01:176][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.52.01:223][281]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.52.36:306][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.52.36:311][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/V8/PL499GRZ22EOIKMFCX2W0D_Auto1
+[2023.01.11-08.52.36:311][410]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/PL499GRZ22EOIKMFCX2W0D_Auto1B57A28DA4227959F39F884A300028DFD.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/V8/PL499GRZ22EOIKMFCX2W0D_Auto1.uasset'
+[2023.01.11-08.52.36:313][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/Q4/2DF8A6DSD788GAACHY7Z3I_Auto1
+[2023.01.11-08.52.36:314][410]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/2DF8A6DSD788GAACHY7Z3I_Auto120EE23B047B0BE427CA0648073953FC0.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/Q4/2DF8A6DSD788GAACHY7Z3I_Auto1.uasset'
+[2023.01.11-08.52.36:316][410]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/0G/3FB3GN85S79OETHIDNYP9M_Auto1
+[2023.01.11-08.52.36:316][410]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/3FB3GN85S79OETHIDNYP9M_Auto141ED6C62402DA666BEB613BAEC17FE85.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/0G/3FB3GN85S79OETHIDNYP9M_Auto1.uasset'
+[2023.01.11-08.52.36:317][410]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.042
+[2023.01.11-08.52.36:317][410]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2023.01.11-08.53.05:450][904]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.53.05:504][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.01.11-08.53.05:551][905]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.05:935][950]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.53.05:992][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.11-08.53.06:037][951]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.06:414][995]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.53.06:470][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.01.11-08.53.06:516][996]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.06:876][ 38]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.53.06:932][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.11-08.53.06:979][ 39]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.28:142][556]LogEditorTransaction: Undo Move Node
+[2023.01.11-08.53.28:245][557]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.29:476][647]BlueprintLog: New page: Compile B_FallingBlock
+[2023.01.11-08.53.29:534][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.01.11-08.53.29:598][648]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2023.01.11-08.53.29:733][659]LogSlate: Took 0.006468 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.11-08.53.30:360][712]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Tetris/B_FallingBlock
+[2023.01.11-08.53.30:360][712]LogSavePackage: Moving '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Saved/B_FallingBlock1440DA2445FE62C6AFF30282E1017B4E.tmp' to '../../../../../Users/t_lefevre1/Documents/GitHub/The-Game-of-Growth/The-Game-of-Growth/Dungeon_And_Gun/Content/TopDown/Blueprints/Tetris/B_FallingBlock.uasset'
+[2023.01.11-08.53.30:372][712]AssetCheck: New page: Asset Save: B_FallingBlock
+[2023.01.11-08.53.30:372][712]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/Tetris/B_FallingBlock.B_FallingBlock
+[2023.01.11-08.54.36:673][299]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.11-08.54.36:681][299]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.11-08.54.36:681][299]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.11-08.54.36:681][299]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.11-08.54.36:682][299]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.11-08.54.36:682][299]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.11-08.54.36:682][299]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2023.01.11-08.54.36:682][299]LogWorldPartition: Display: GenerateStreaming took 334 us
+[2023.01.11-08.54.36:684][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.11-08.54.36:687][299]PIE: New page: PIE session: TopDownMap (11 janv. 2023 à 10:54:36)
+[2023.01.11-08.54.36:691][299]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.11-08.54.36:692][299]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.11-08.54.36:692][299]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.01.11-08.54.36:700][299]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.11-08.54.36:701][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008158s)
+[2023.01.11-08.54.36:701][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008956s)
+[2023.01.11-08.54.36:701][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.11-08.54.36:701][299]LogAIModule: Creating AISystem for world TopDownMap
+[2023.01.11-08.54.36:702][299]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.11-08.54.36:702][299]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.11-08.54.36:703][299]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2023.01.11-08.54.36:703][299]LogPlayLevel: PIE: World Init took: (0.002598s)
+[2023.01.11-08.54.36:734][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.11-08.54.36:734][299]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.11-08.54.36:735][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.11-08.54.36:735][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.11-08.54.36:735][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.11-08.54.36:735][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.11-08.54.36:735][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.11-08.54.36:737][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.11-08.54.36:749][299]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Synaptics HD Audio)
+[2023.01.11-08.54.36:750][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.11-08.54.36:750][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.11-08.54.36:750][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.11-08.54.36:750][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.11-08.54.36:750][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.11-08.54.36:751][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.11-08.54.36:751][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.11-08.54.36:752][299]LogInit: FAudioDevice initialized.
+[2023.01.11-08.54.36:752][299]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2023.01.11-08.54.36:761][299]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.01.11-08.54.36:763][299]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.11-08.54.36:809][299]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.046 s
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: 
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: Ensure condition failed: Cast<APawn>(NewUpdatedComponent->GetOwner()) [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Components\PawnMovementComponent.cpp] [Line: 18]
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: FloatingPawnMovement must update a component owned by a Pawn
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: Stack: 
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7ba3b892 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7ba27629 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7b98866c UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7b9b4cc9 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7b482b23 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7bf80788 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7bf80d24 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7d1c6787 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7d19dc6c UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc7bd54423 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34bb9918 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34beece6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34bba3c2 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34c0d4aa UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34c10cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34c105a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc345adcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffc34f3aac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff6448182f6 UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff644830d9c UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff644830e8a UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff644833c4d UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff644845564 UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ff644848736 UnrealEditor.exe!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffcadb67034 KERNEL32.DLL!UnknownFunction []
+[2023.01.11-08.54.36:809][299]LogOutputDevice: Error: [Callstack] 0x00007ffcadfe2651 ntdll.dll!UnknownFunction []
+[2023.01.11-08.54.36:810][299]LogOutputDevice: Error: 
