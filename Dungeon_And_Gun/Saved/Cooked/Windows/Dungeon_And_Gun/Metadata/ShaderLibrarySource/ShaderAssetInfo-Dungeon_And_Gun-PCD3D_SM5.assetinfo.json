@@ -81,6 +81,10 @@
 				"/Game/TechArt/Assets/Corentin/Material_006",
 				"/Game/TechArt/Assets/Corentin/Material_005",
 				"/Game/TechArt/Assets/Corentin/Material_004",
+				"/Game/TechArt/Assets/Corentin/Material_003",
+				"/Game/TechArt/Assets/Corentin/Material_002",
+				"/Game/TechArt/Assets/BorneArcade/15_-Screen",
+				"/Game/TechArt/Assets/BorneArcade/14_-_Monnaie",
 				"/Game/TechArt/Assets/BorneArcade/13_-_Joystick",
 				"/Game/TechArt/Assets/BorneArcade/09_-_Support_Joystick",
 				"/Game/TechArt/Assets/BorneArcade/08_-_Contour_Boutton",
@@ -91,17 +95,17 @@
 				"/Game/A_Part/TechArt/Assets/Corentin/Material_006",
 				"/Game/A_Part/TechArt/Assets/Corentin/Material_005",
 				"/Game/A_Part/TechArt/Assets/Corentin/Material_004",
+				"/Game/A_Part/TechArt/Assets/Corentin/Material_003",
+				"/Game/A_Part/TechArt/Assets/Corentin/Material_002",
+				"/Game/A_Part/TechArt/Assets/BorneArcade/15_-Screen",
+				"/Game/A_Part/TechArt/Assets/BorneArcade/14_-_Monnaie",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/13_-_Joystick",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/09_-_Support_Joystick",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/08_-_Contour_Boutton",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/07_-_Button",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/03_-_3_boutons_blanc",
 				"/Game/A_Part/TechArt/Assets/BorneArcade/02_-_Borne",
-				"/Game/A_Part/TechArt/Assets/BorneArcade/01_-_Borders",
-				"/Game/TechArt/Assets/Corentin/Material_003",
-				"/Game/TechArt/Assets/Corentin/Material_002",
-				"/Game/TechArt/Assets/BorneArcade/14_-_Monnaie",
-				"/Game/TechArt/Assets/BorneArcade/15_-Screen"
+				"/Game/A_Part/TechArt/Assets/BorneArcade/01_-_Borders"
 			]
 		},
 		{
@@ -204,6 +208,13 @@
 			"Assets": [
 				"/Game/TechArt/Assets/Hero/Material__50",
 				"/Game/A_Part/TechArt/Assets/Hero/Material__50"
+			]
+		},
+		{
+			"ShaderMapHash": "6936128FA8C49FF696FBF42A9F9BD61CE188669B",
+			"Assets": [
+				"/Game/TechArt/Assets/Caisse/M_Caisse",
+				"/Game/A_Part/TechArt/Assets/Caisse/M_Caisse"
 			]
 		},
 		{
@@ -379,8 +390,7 @@
 			"ShaderMapHash": "EBAC5BD229EDFF2F23C2CDC4831FBAF814E6CC25",
 			"Assets": [
 				"/Game/TopDown/UI/MenuEffect/Deylene/migration/M_Glitch",
-				"/Game/TechArt/FX/Materials/M_Glitch",
-				"/Game/A_Part/TechArt/FX/Materials/M_Glitch"
+				"/Game/TechArt/FX/Materials/M_Glitch"
 			]
 		},
 		{
@@ -436,6 +446,38 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "9763885C281669F1DC815F8343076766C75A7EDB",
+			"Assets": [
+				"/Game/TechArt/Door_box/M_PressurePlate"
+			]
+		},
+		{
+			"ShaderMapHash": "00F53F8A012770E229D0B9965F5201134AB19956",
+			"Assets": [
+				"/Game/TechArt/Door_box/CubeGridThick_Mat",
+				"/Game/TopDown/Blueprints/Door_box/M_TransparentPlat",
+				"/Game/TopDown/Blueprints/Door_box/CubeGridThick_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "442B4F73198E4893736BACF47F5D0A16CE9B15C7",
+			"Assets": [
+				"/Game/TechArt/Assets/Posters/M_FlowerPosterDecal",
+				"/Game/A_Part/TechArt/Assets/Posters/M_FlowerPosterDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "0FBDE66B3E3A7F728CBC11FF68473149580BF6A0",
+			"Assets": [
+				"/Game/TechArt/Assets/PC1990/Textures/Tower",
+				"/Game/A_Part/TechArt/Assets/PC1990/Textures/Tower",
+				"/Game/TechArt/Assets/PC1990/Textures/Screen",
+				"/Game/A_Part/TechArt/Assets/PC1990/Textures/Screen",
+				"/Game/TechArt/Assets/PC1990/Textures/Monitor",
+				"/Game/A_Part/TechArt/Assets/PC1990/Textures/Monitor"
 			]
 		},
 		{
@@ -745,21 +787,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9763885C281669F1DC815F8343076766C75A7EDB",
-			"Assets": [
-				"/Game/TopDown/Blueprints/Door_box/M_PressurePlate",
-				"/Game/TechArt/Door_box/M_PressurePlate"
-			]
-		},
-		{
-			"ShaderMapHash": "00F53F8A012770E229D0B9965F5201134AB19956",
-			"Assets": [
-				"/Game/TopDown/Blueprints/Door_box/M_TransparentPlat",
-				"/Game/TopDown/Blueprints/Door_box/CubeGridThick_Mat",
-				"/Game/TechArt/Door_box/CubeGridThick_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -792,16 +819,14 @@
 		{
 			"ShaderMapHash": "CA2B3A6C388FD1D0D076A1ACE7C4C722D86C19BB",
 			"Assets": [
-				"/Game/TechArt/FX/Niagara/FX_Flowers",
-				"/Game/A_Part/TechArt/FX/Niagara/FX_Flowers"
+				"/Game/TechArt/FX/Niagara/FX_Flowers"
 			]
 		},
 		{
 			"ShaderMapHash": "A91617DD99F0821376135B65D82518EF04A0AB9E",
 			"Assets": [
 				"/Game/TechArt/FX/Materials/M_StylizedWater",
-				"/Game/FX/Materials/M_StylizedWater",
-				"/Game/A_Part/TechArt/FX/Materials/M_StylizedWater"
+				"/Game/FX/Materials/M_StylizedWater"
 			]
 		},
 		{
@@ -963,26 +988,6 @@
 			"ShaderMapHash": "2618E300AA8548720554580F88D0E1391D31DA4C",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
-			]
-		},
-		{
-			"ShaderMapHash": "0FBDE66B3E3A7F728CBC11FF68473149580BF6A0",
-			"Assets": [
-				"/Game/TechArt/Assets/PC1990/Textures/Monitor",
-				"/Game/TechArt/Assets/PC1990/Textures/Screen",
-				"/Game/TechArt/Assets/PC1990/Textures/Tower"
-			]
-		},
-		{
-			"ShaderMapHash": "6936128FA8C49FF696FBF42A9F9BD61CE188669B",
-			"Assets": [
-				"/Game/TechArt/Assets/Caisse/M_Caisse"
-			]
-		},
-		{
-			"ShaderMapHash": "442B4F73198E4893736BACF47F5D0A16CE9B15C7",
-			"Assets": [
-				"/Game/TechArt/Assets/Posters/M_FlowerPosterDecal"
 			]
 		}
 	]
